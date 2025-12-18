@@ -1,4 +1,4 @@
-# ImagoAI API
+# Vomitoxin prediction using Hyperspectral for reflectance for Corn grain
 
 This project provides a FastAPI-based REST API for deploying machine learning models. It is designed to be easily containerized and deployed to AWS.
 
